@@ -1,0 +1,10 @@
+{
+  "name": "nlw-esports-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ismélio Cori <ismeliocori@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
